@@ -9,6 +9,9 @@ body{
 :focus{
   outline: none;
 }
+html{
+  scroll-behavior: smooth;
+}
 h3{
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
